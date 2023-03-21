@@ -1,0 +1,25 @@
+/* Graph styles
+-------------------------------------------------- */
+
+#score-graph {
+  min-height: 500px;
+  padding-top: 20px;
+  background-color: white;
+  display: block;
+  clear: both;
+}
+
+#solves-graph {
+  display: block;
+  height: 350px;
+}
+
+#keys-pie-graph {
+  min-height: 400px;
+  display: block;
+}
+
+#categories-pie-graph {
+  min-height: 400px;
+  display: block;
+}
